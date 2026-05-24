@@ -52,7 +52,7 @@
 <h2>🌍 Connect With Me</h2>
 
 <p>
-  <a href="https://github.com/vamanet">
+  <a href="https://github.com/manetva">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
